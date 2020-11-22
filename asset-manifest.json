@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ravenous/static/css/main.ca58ea0c.chunk.css",
+    "main.js": "/Ravenous/static/js/main.9af34ed2.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.9af34ed2.chunk.js.map",
+    "runtime-main.js": "/Ravenous/static/js/runtime-main.cc441cb8.js",
+    "runtime-main.js.map": "/Ravenous/static/js/runtime-main.cc441cb8.js.map",
+    "static/js/2.c32ac407.chunk.js": "/Ravenous/static/js/2.c32ac407.chunk.js",
+    "static/js/2.c32ac407.chunk.js.map": "/Ravenous/static/js/2.c32ac407.chunk.js.map",
+    "index.html": "/Ravenous/index.html",
+    "precache-manifest.5d236cfb60301cad447bef947af07f86.js": "/Ravenous/precache-manifest.5d236cfb60301cad447bef947af07f86.js",
+    "service-worker.js": "/Ravenous/service-worker.js",
+    "static/css/main.ca58ea0c.chunk.css.map": "/Ravenous/static/css/main.ca58ea0c.chunk.css.map",
+    "static/js/2.c32ac407.chunk.js.LICENSE.txt": "/Ravenous/static/js/2.c32ac407.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc441cb8.js",
+    "static/js/2.c32ac407.chunk.js",
+    "static/css/main.ca58ea0c.chunk.css",
+    "static/js/main.9af34ed2.chunk.js"
+  ]
+}
